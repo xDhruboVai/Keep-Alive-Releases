@@ -10,3 +10,4 @@
 # (the app ignores lines with one).
 
 Thrune | https://fycfgsloaqgvmozioksx.supabase.co | sb_publishable_YgOqKaPcLeTlfliejHeI8Q_hiIcU2Gi
+Routiner Khichuri | https://routiner-khichuri-backend.onrender.com/api/health
