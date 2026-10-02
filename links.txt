@@ -1,0 +1,12 @@
+# Keep Alive — shared links. Every copy of the app pings these, on every computer.
+# Push a change here and all copies pick it up within 30 minutes.
+#
+# One link per line:   Name | Link | Key
+#   Supabase:  Name | https://<project>.supabase.co | <publishable key>   (run keepalive.sql in the project once)
+#   Render:    Name | https://<service>.onrender.com                      (pinged every 10 minutes)
+#   Anything:  Name | https://site.com/api/health                         (must read the database)
+#
+# This file is copied to a PUBLIC repo. Publishable keys only — never a secret key
+# (the app ignores lines with one).
+
+Thrune | https://fycfgsloaqgvmozioksx.supabase.co | sb_publishable_YgOqKaPcLeTlfliejHeI8Q_hiIcU2Gi
